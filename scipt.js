@@ -12,9 +12,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // 图片切换
     let imageIndex = 0;
     const images = [
-        'mmexport1723115494268.jpg',
-        'mmexport1723115494269.jpg', // 假设你有另一张图片
-        'mmexport1723115494270.jpg'  // 假设你有第三张图片
+        '海.jpg',
+        '楼.jpg', // 假设你有另一张图片
+        '人.jpg'  // 假设你有第三张图片
     ];
     
     image.addEventListener('click', function() {
