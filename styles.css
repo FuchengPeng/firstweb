@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Microsoft YaHei', Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -21,4 +21,11 @@ section {
 img {
     max-width: 100%;
     height: auto;
+    cursor: pointer; /* 添加鼠标悬停时的指针效果 */
+}
+
+#nameInput {
+    margin-top: 10px;
+    padding: 5px;
+    font-size: 16px;
 }
